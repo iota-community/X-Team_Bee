@@ -6,7 +6,7 @@
 </p>
 
 
-<h1 align="center"><a href="https://www.iota.org"> IOTA NAME-HERE Initiative</a></h1>
+<h1 align="center"><a href="https://www.iota.org"> IOTA BEE Initiative</a></h1>
 
 <p align="center">The IOTA Bee Initiative is aimed to provide help, guidance, and spotlight to the IOTA Developer Community.</p>
 
