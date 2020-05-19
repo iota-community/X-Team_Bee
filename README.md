@@ -42,31 +42,42 @@ We are currently focused on improving the IOTA Experience around the following g
 
 Quality Assurance/Review goal includes making sure that the releases are easily usable, has no obvious bugs or pitfalls that might turn developers off from trying further once they run into them, make sure that the examples we provide are clear and work for the most common use cases the release is aimed at.
 
- > - [ ] TBA
+ > - [ ] [CI improvements (B)](https://github.com/iota-community/Bee/issues/7)
+ > - [ ] [Test coverage (B)](https://github.com/iota-community/Bee/issues/8)
 
 ### Documentation
 
 Documentation goal includes everything related to writing, curating, and sharing content around with solid documentation at every launch, that is kept up-to-date, well-written explanations of tangible use cases to stimulate developer interest
 
-> - [ ] TBA
+> - [ ] [Improve external documentation (A)](https://github.com/iota-community/Bee/issues/10)
+> - [ ] [Improve internal documentation (B)](https://github.com/iota-community/Bee/issues/9)
 
 ### Benchmarks
 
 <PLEASE UPDATE MY DESCRIPTION>
 
- > - [ ] TBA
+ > - [ ] [Benchmark libraries (B)](https://github.com/iota-community/Bee/issues/5)
+ > - [ ] [Profile and benchmark Bee crates and node(B)](https://github.com/iota-community/Bee/issues/6)
 
 ### RFCs
 
 <PLEASE UPDATE MY DESCRIPTION>
 
-> - [ ] TBA
+> - [ ] [RFCs proof-reading (A)](https://github.com/iota-community/Bee/issues/3)
 
-###  Improvements to module/libraries
+###  Development
 
-Improvements to module/libraries goal includes Developer-friendly APIs at launch Solid comms both at release and after release (e.g. spotlight for community projects using each of libs)
+Improvements/additions to module/libraries goal includes Developer-friendly APIs at launch Solid comms both at release and after release (e.g. spotlight for community projects using each of libs)
 
-> - [ ] TBA
+> - [ ] [New node features (B)](https://github.com/iota-community/Bee/issues/11)
+
+### Node usability
+
+<PLEASE UPDATE MY DESCRIPTION>
+
+> - [ ] [Node usability (A)](https://github.com/iota-community/Bee/issues/2)
+> - [ ] [Bee Community Network (B)](https://github.com/iota-community/Bee/issues/1)
+> - [ ] [Node packaging (C)](https://github.com/iota-community/Bee/issues/4)
 
 ## 🤔 How Can You Get Involved?
 
